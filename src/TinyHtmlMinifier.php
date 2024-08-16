@@ -1,6 +1,5 @@
 <?php
 
-TODO: use namespace:
 namespace Minifier;
 
 class TinyHtmlMinifier
