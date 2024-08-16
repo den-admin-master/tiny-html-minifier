@@ -1,7 +1,7 @@
 <?php
 
-// TODO: use namespace:
-// namespace Minifier;
+TODO: use namespace:
+namespace Minifier;
 
 class TinyHtmlMinifier
 {
